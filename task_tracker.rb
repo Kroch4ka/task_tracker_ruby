@@ -1,0 +1,2 @@
+load "./src/cli.rb"
+
